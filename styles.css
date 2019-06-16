@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url("https://www.asianscientist.com/wp-content/uploads/bfi_thumb/20170815-rock-scissors-pixabay-34f3h8kx0ucail5dbcp8n4.jpg");
+}
+
+#container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+    background-color: rgba(255,255,255,.8);
+    padding: 50px;
+    box-shadow: 0 0 20px black;
+}
+
+h1 {
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    background-color: rgb(219, 219, 219);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
